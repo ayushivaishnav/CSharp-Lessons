@@ -1,0 +1,14 @@
+C:\Users\ayushi.vaishnav\source\repos\program1\program1\obj\Debug\net6.0\program1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ayushi.vaishnav\source\repos\program1\program1\obj\Debug\net6.0\program1.AssemblyInfoInputs.cache
+C:\Users\ayushi.vaishnav\source\repos\program1\program1\obj\Debug\net6.0\program1.AssemblyInfo.cs
+C:\Users\ayushi.vaishnav\source\repos\program1\program1\obj\Debug\net6.0\program1.csproj.CoreCompileInputs.cache
+C:\Users\ayushi.vaishnav\source\repos\program1\program1\bin\Debug\net6.0\program1.exe
+C:\Users\ayushi.vaishnav\source\repos\program1\program1\bin\Debug\net6.0\program1.deps.json
+C:\Users\ayushi.vaishnav\source\repos\program1\program1\bin\Debug\net6.0\program1.runtimeconfig.json
+C:\Users\ayushi.vaishnav\source\repos\program1\program1\bin\Debug\net6.0\program1.dll
+C:\Users\ayushi.vaishnav\source\repos\program1\program1\bin\Debug\net6.0\program1.pdb
+C:\Users\ayushi.vaishnav\source\repos\program1\program1\obj\Debug\net6.0\program1.dll
+C:\Users\ayushi.vaishnav\source\repos\program1\program1\obj\Debug\net6.0\refint\program1.dll
+C:\Users\ayushi.vaishnav\source\repos\program1\program1\obj\Debug\net6.0\program1.pdb
+C:\Users\ayushi.vaishnav\source\repos\program1\program1\obj\Debug\net6.0\program1.genruntimeconfig.cache
+C:\Users\ayushi.vaishnav\source\repos\program1\program1\obj\Debug\net6.0\ref\program1.dll
